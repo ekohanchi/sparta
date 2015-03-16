@@ -1,0 +1,50 @@
+standar font:
+skia regular
+
+top font
+handwriting-dakota
+
+SPARTA Coaching connects youth who want to develop and promote their talents and passions outside the classroom with a personal coach. This revolutionizes youth's extracurricular experience while simultaneously providing meaningful word experience and job networking to empowered young professionals.
+
+Click your button below to sign-in and join the SPARTA Coaching revolution set to take off soon:
+
+Benefits For Students:
+
+Personal Coaching to Develop
+Your Talents and Passions
+
+Safe Social Networking Platform
+to Promote Your Achievements
+
+Learning to Set Goals and
+Mastering Interests
+
+Competitive Advantage In
+School Applications
+
+
+
+Benefits For Coaches:
+
+Make Money Doing
+What You Love
+
+A Professional Network to
+Develop Your Career
+
+Learning to Manage Goals
+and Obtain Results
+
+Competitive Advantage in
+Workforce
+
+
+
+
+
+    					<ul>
+    						<li>Follow us:<br/><a href="http://twitter.com/spartacoaching" target="_blank"><img src="images/twitter-logo.png"></img></a></li>
+    						<li>Like us:<br/><a href="http://www.facebook.com/spartacoaching" target="_blank"><img src="images/Facebook-logo.png"></img></a></li>
+    						<li>Watch us:<br/><a href="http://www.youtube.com/spartacoaching" target="_blank"><img src="images/Youtube-logo.png"></img></a></li>
+    						<li>Read us:<br/><a href="http://spartacoaching.wordpress.com/" target="_blank"><img src="images/wordpress-logo.png"></img></a></li>
+    					</ul>

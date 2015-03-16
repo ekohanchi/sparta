@@ -1,0 +1,150 @@
+.centertable {
+	width: 100%;
+	border: 0px;
+	padding: 0px;
+	border-spacing: 0px;
+	background-color: #F5E9D4; 
+}
+
+.leftcol, .rightcol {
+	/*width: 15%;*/
+	background-color: #F5E9D4;
+}
+
+.contentbody {
+	width: 850px;
+	background-color: #FFFFFF;
+	vertical-align: top;
+	margin-left:auto;
+	margin-right:auto;
+	padding-top: 11px;
+	padding-right: 11px;
+	padding-bottom: 11px;
+	padding-left: 11px;
+}
+
+body {
+	font-family: Helvetica;
+	color: #454545;
+}
+
+body a {
+	color: #ECA239;
+}
+
+/************************
+* 	MISC
+*************************/
+
+.homecol1 {
+	width: 50%;
+}
+.homecol2 {
+	width: 20px;
+}
+
+.maintoptext {
+	font-family: Helvetica;
+	font-weight: 300;
+	font-size: 24px;
+	color: #454545;
+	width: 50%;
+	line-height: 35px;
+	vertical-align: top;
+}
+
+.midline {
+	font-size: 15px;
+	font-weight: bold;
+	color: #ECA239;
+	text-align: center;
+	vertical-align: middle;
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+
+.btnspacer {
+	width: 20px;
+}
+
+.stcocol {
+	vertical-align: top;
+	color: #454545;
+	text-align: center;
+}
+	/* removing the border around an image in IE */
+a img {
+	border: none;
+}
+
+div#beneblock ul {
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+	padding: 0px;
+	white-space: nowrap;
+	list-style-position: inside;
+}
+div#beneblock li {
+	margin-top: .7em;
+	line-height: 1.3em;
+}
+
+.benefits {
+	font-weight: bold;
+}
+
+div#socialblock {
+	width: 100%;
+	margin-top: 25px;
+}
+div#socialblock ul {
+	margin: 0px;
+	padding: 0px;
+	font-family: Helvetica;
+	font-size: 15px;
+	color: #ECA239;
+	white-space: nowrap;
+	text-align: center;
+	font-style: oblique;
+	font-weight: bold;
+}
+div#socialblock li {
+	list-style-type: none;
+	/*display: inline-table;*/
+	display: inline-block;
+	vertical-align: top;
+}
+	/* displaying social block inline in IE */
+* html #socialblock li {
+	display: inline;
+}
+div#socialblock li a {
+	text-decoration: none;
+	padding-bottom: 0px;
+	padding-top: 0px;
+	padding-right: 15px;
+	padding-left: 15px;
+	color: #FFFFFF;
+}
+div#socialblock li a:link {
+    color: #FFFFFF;
+}
+div#socialblock li a:visited {
+    color: #FFFFFF;
+}
+div#socialblock li a:hover {
+    color: #FFFFFF;
+}
+
+/************************
+* 	ABOUT US PAGE
+*************************/
+.headingstyle {
+	font-size: 16px;
+}
+
+ol.aboutusol li {
+	margin-bottom: 15px;
+}

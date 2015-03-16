@@ -1,0 +1,77 @@
+.aboveform {
+	font-weight: bold;
+	font-family: Helvetica;
+	line-height: 24px;
+	font-size: 18px;	
+}
+
+.reqfields {
+	font-size: 12px;
+	font-style: italic;	
+}
+
+.regform table, .regform td, .regform tr {
+	border: 0px;
+	border-style: solid;
+	empty-cells: show;
+	/*background-color: #FFFFFF;*/
+}
+
+.regform td {
+	padding-right: 10px;
+	padding-bottom: 10px;
+}
+
+.field {
+	font-weight: bold;	
+	/*width: 150px;*/
+	/*padding-right: 10px;*/
+}
+.optionalfield {
+	font-weight: bold;
+	font-style: italic;	
+}
+
+.astrik {
+	color: #FF575A;
+	font-weight: bold;
+}
+
+.intheading {
+	font-weight: bold;
+	text-align: center;
+}
+
+.smallfont {
+	font-size: 12px;
+}
+
+.hrstyle {
+	width: 350px;
+	text-align: center;
+}
+
+.schedual table, .schedual td, .schedual tr, .schedual th {
+	border: 1px;
+	border-style: solid;
+	empty-cells: show;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	text-align: center;
+	vertical-align: middle;
+	/*background-color: #FFFFFF;*/
+	font-size: 12px;
+	width: 75px;
+	
+}
+
+#validationErrors {
+	font-size: 12px;
+	font-weight: bold;
+	margin-left: 50px;
+	color: red;
+}
+
+/*.schedual th {
+	
+}*/

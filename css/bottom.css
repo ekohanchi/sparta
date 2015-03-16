@@ -1,0 +1,16 @@
+.footertext {
+	height: 50px;
+	text-align: center;
+	vertical-align: middle;
+	font-family: Tahoma,Verdana,Arial,sans-serif;
+	font-size: 11px;
+}
+
+
+.footertable {
+	width: 100%;
+	border: 0px;
+	padding: 0px;
+	border-spacing: 0px;
+	background-color: #F5E9D4; 
+}

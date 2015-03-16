@@ -1,0 +1,16 @@
+A MySQL error occured for regid: 20101113052948
+Query: INSERT INTO students VALUES ('', now(),'100','20101113052948','','','MM','DD','YYYY','','','','00','','','','','',' ','','','','','','','','','Select',) 
+Error: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+***********************
+A MySQL error occured for regid: 20101113053558
+Query: INSERT INTO students VALUES ('', now(),'100','20101113053558','','','MM','DD','YYYY','','','','00','','','','','',' ','','','','','','','','','Select',) 
+Error: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+***********************
+A MySQL error occured for regid: 20101113054809
+Query: INSERT INTO students VALUES ('', now(),'100','20101113054809','','','MM','DD','YYYY','','','','00','','','','','',' ','','','','','','','','','Select',) 
+Error: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+***********************
+A MySQL error occured for regid: 20101122221052
+Query: INSERT INTO students VALUES ('', now(),'100','20101122221052','','','MM','DD','YYYY','','','','00','','','','','',' ','','','','','','','','','Select',) 
+Error: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+***********************
